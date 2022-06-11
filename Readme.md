@@ -1,7 +1,3 @@
-# Some small projects
+# Ninja Card
 
-Flutter projects.
-
-## Getting Started
-
-This project is a starting point for a Flutter.
+A new Flutter project.
