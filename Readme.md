@@ -1,3 +1,3 @@
-# Ninja Card Stateless
+# Quote Card
 
 A new Flutter project.
